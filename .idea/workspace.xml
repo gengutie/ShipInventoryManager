@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b614824-56ab-43e0-891a-8297281acb71" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/naujoyamat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShipInventoryManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/MannedShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/PropulsionSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/SatelliteShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/ShipType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/SondaShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/SpaceShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/SpaceShuttle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/SpaceVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/SpaceVehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/VehicleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repository/MemoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/View.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LH7wbBmqmigiV46JMfGEiTITr6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.spelling&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="ShipInventoryManager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b614824-56ab-43e0-891a-8297281acb71" name="Changes" comment="" />
+      <created>1675516395041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675516395041</updated>
+    </task>
+    <servers />
+  </component>
+</project>
